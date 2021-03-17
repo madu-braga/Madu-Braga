@@ -4,10 +4,10 @@
 <details open>
 <summary> <b>GitHub Analytics</b> </summary>
 <br>
-<p align="center">
+<p align="left">
 <a href="https://github.com/Madu-braga">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madu-braga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madu-braga&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Madu-braga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Madu-braga&layout=compact&langs_count=8&theme=dracula"/>
  </p><div>
 </details>
   
