@@ -1,4 +1,4 @@
-## ✨Bem-vindo(a) ao meu repositório✨
+# ✨Bem-vindo(a) ao meu repositório✨
 
 <!--
 **madu-braga/Madu-Braga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
