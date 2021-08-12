@@ -3,12 +3,12 @@
     <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
   <div>
     
- <h3 align="center">"O importante é nunca desistir" ❤️‍🔥</h3>
+ <h3 align="right">"O importante é nunca desistir" ❤️‍🔥</h3>
     
  <div style="display: inline_block">
-   <p align="left"><h4>📌 Caçapava, SP; </h4>
-                 <h4>🔥 Cursando Análise e Desenvolvimento de Sistemas; </h4>
-                <h4> 🎯 Em busca do constante desevolvimento pessoal.</h4>
+   <p align="left"><h4>📌 Caçapava, SP; <br>
+                 🔥 Cursando Análise e Desenvolvimento de Sistemas; <br>
+                🎯 Em busca do constante desevolvimento pessoal.</h4>
   </left>
   </div>
  
