@@ -1,6 +1,6 @@
 # ✨Bem-vindo(a) ao meu repositório✨
   <div style="display: inline_block">
-    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
+    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="200">
   <div>
     
  <h3 align="left">"O importante é nunca desistir" ❤️‍🔥</h3>
@@ -14,7 +14,7 @@
  
    ##
    
-<br><br>
+<br>
 <div> <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madu-braga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   &nbsp;    
