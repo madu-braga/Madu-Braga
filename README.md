@@ -6,9 +6,9 @@
  <h3>"O importante é nunca desistir" ❤️‍🔥</h3>
     
  <div style="display: inline_block">
-   <p align="left">📌 Caçapava, SP; <br>
-                 🔥 Cursando Análise e Desenvolvimento de Sistemas; <br>
-                 🎯 Em busca do constante desevolvimento pessoal.
+   <p align="left"><h4>📌 Caçapava, SP; </h4>
+                 <h4>🔥 Cursando Análise e Desenvolvimento de Sistemas; </h4>
+                <h4> 🎯 Em busca do constante desevolvimento pessoal.</h4>
   </left><br><br>
   </div>
  
