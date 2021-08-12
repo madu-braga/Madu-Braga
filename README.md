@@ -1,7 +1,22 @@
 # ✨Bem-vindo(a) ao meu repositório✨
-
-<br>
-<div> <p align="left"> 
+  <div style="display: inline_block">
+    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="190">
+  <div>
+    
+ <h4>"O importante é nunca desistir" ❤️‍🔥</h4>
+    
+ <div style="display: inline_block">
+   <p align="left">📌 Caçapava, SP; <br>
+                 🔥 Cursando Análise e Desenvolvimento de Sistemas; <br>
+                 🎯 Em busca do constante desevolvimento pessoal.
+  </left><br><br>
+  </div>
+ 
+   ##
+   
+ 
+<br><br>
+<div> <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madu-braga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
   &nbsp;    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madu-braga&layout=compact&langs_count=8&theme=dracula"/> 
@@ -18,5 +33,3 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
     </a> 
 </div>
-
-
