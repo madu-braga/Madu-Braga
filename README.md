@@ -1,6 +1,6 @@
 # ✨Bem-vindo(a) ao meu repositório✨
   <div style="display: inline_block">
-    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="200">
+    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
   <div>
     
  <h3 align="left">"O importante é nunca desistir" ❤️‍🔥</h3>
