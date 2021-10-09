@@ -23,9 +23,9 @@
    
   ##
   
- <h3 align="left"> 	:rocket: Programs made by me </h2>
+ <h3 align="center"> 	:rocket: Programs made by me </h2>
   
-<div align="left">
+<div align="center">
   
 |   Games   |   College's API  |    Others    |
 | :---         | :---         | :---      |
