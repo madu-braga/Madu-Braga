@@ -3,10 +3,8 @@
     <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
   <div>
     
- <h3 align="left">"Become your best version" ❤️‍🔥</h3>
-    
- <div style="display: inline_block">
-   <p align="left"><h4>📌 Caçapava, SP; <br><br>
+ <h3 align="left">"𝐵𝑒𝑐𝑜𝑚𝑒 𝑦𝑜𝑢𝑟 𝑏𝑒𝑠𝑡 𝑣𝑒𝑟𝑠𝑖𝑜𝑛"</h3>
+   <p align="left"><h4>📌 Caçapava • São Paulo;<br><br>
                        📚 Analysis and systems development; <br><br>
                        🌞 Always forward, never back. </h4>
   </left> 
