@@ -30,7 +30,7 @@
 | :---         | :---         | :---      |
 | [Yellow Ball](https://github.com/madu-braga/Yellow-Ball)  | [1º Semestre](https://github.com/DeskwarePI)    | [Calculadora](https://github.com/madu-braga/Calculadora ) |
 | [Hangman](https://github.com/madu-braga/Forca)     | [2º Semestre](https://github.com/Inodevs)      |        |
-| [Jokenpô](https://github.com/madu-braga/Jokenpo)  |      |      |    
+| [Rock Paper Scissors](https://github.com/madu-braga/Jokenpo)  |      |      |    
 | [Adivinhe](https://github.com/madu-braga/Adivinhe)  |      |      |    
  
 </div>
