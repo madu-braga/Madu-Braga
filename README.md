@@ -1,4 +1,4 @@
-# ✨Welcome to my repository✨
+# **Welcome to my repository!** ✨
   <div style="display: inline_block">
     <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
   <div>
@@ -6,10 +6,10 @@
  <h3 align="left">"you can change the world!!" 🧡</h3>
    <p align="left"><h4>📌 Caçapava • São Paulo;<br><br>
                        📚 Analysis and systems development; <br><br>
-                       🌞 Always forward, never back. </h4>
+                       🌞 You can, go!! <br>
   </left> 
   </div>
-    <br>
+  <br>
   
    ##
   
