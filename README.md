@@ -3,7 +3,7 @@
     <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
   <div>
     
- <h3 align="left">"Never give up! ✨ </h3>
+ <h3 align="left">"Never give up!" ✨ </h3>
    <p align="left"><h4>📌 Caçapava • São Paulo;<br><br>
                        📚 Analysis and systems development; <br><br>
                        :sunny: There's always a way, keep going!! <br>
