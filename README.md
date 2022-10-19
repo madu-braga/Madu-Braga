@@ -47,7 +47,7 @@
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqXPtFPLMWKPfFmlXVxmJSvbkPpTzxXgpPqfGxLGrgBnsLPcdHCZtVlLnZsbvXllKsMqJV">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://trailblazer.me/id?lang=en_US" target="_blank">
+  <a href="https://trailblazer.me/id/duda-braga" target="_blank">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"> 
   </a>
   <a href="https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/e" target="_blank">
