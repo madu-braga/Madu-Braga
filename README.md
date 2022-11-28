@@ -19,7 +19,7 @@
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665715489931274/unknown.png" width=6%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665109652095026/unknown.png" width=8%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665895677235230/unknown.png" width=6%>&nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=6%>&nbsp;&nbsp;
+  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1046775186902499338/unknown.png" width=5%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1046774495572140073/unknown.png" width=6%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width=5%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=6%>&nbsp;&nbsp;
