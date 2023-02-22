@@ -1,11 +1,16 @@
+ <div align="right"> 
+    
+  ![](https://komarev.com/ghpvc/?username=Madu-Braga&color=blueviolet) 
+
+</div>
 
 # **Welcome to my repository!** :coffee:
   <div style="display: inline_block">
-    <img align="right" src="https://cdn.discordapp.com/attachments/826526043917647912/875509340730195998/avatar.gif" height="180">
+    <img align="right" src="https://cdn.discordapp.com/attachments/901303352883822635/1078030454109777930/fb5cbc00-0a67-11eb-9c37-3f829f3f7382.png" height="180">
   <div>
     
  <h3 align="left">About me:  </h3>
-   <p align="left"><h4> :house: Caçapava • São Paulo;<br><br>
+   <p align="left"><h3> :house: Caçapava • São Paulo;<br><br>
                        :books: Analysis and Systems Development; <br><br>
                        :mortar_board: Student - IT <br>
   </left> 
@@ -44,8 +49,17 @@
   
   ##
   
-<div> 
-  <p align="center"> 
+ <div align="center"> 
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=Madu-Braga&theme=dark&border_radius=9)](https://git.io/streak-stats) <br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Madu-Braga&layout=compact&theme=dark&hide_progress=true)](https://github.com/Madu-Braga/github-readme-stats)
+    
+ </div>
+  
+  ##
+  
+ <div align="center"> 
+   
   <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqXPtFPLMWKPfFmlXVxmJSvbkPpTzxXgpPqfGxLGrgBnsLPcdHCZtVlLnZsbvXllKsMqJV">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
@@ -59,4 +73,4 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
    </a> 
 </div>
-
+  
