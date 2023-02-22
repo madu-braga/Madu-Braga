@@ -66,7 +66,7 @@
   <a href="https://trailblazer.me/id/duda-braga" target="_blank">
     <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"> 
   </a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/e" target="_blank">
+  <a href="https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
   </a>
   <a href="https://www.instagram.com/duda.mb_/?hl=pt-br" target="_blank">
