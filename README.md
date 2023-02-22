@@ -42,7 +42,7 @@
 | [Yellow Ball](https://github.com/madu-braga/Yellow-Ball)  | [1° Semester](https://github.com/DeskwarePI)    | [Calculator](https://github.com/madu-braga/Calculadora ) |
 | [Speed Typer](https://github.com/madu-braga/Speed-Typer/blob/main/README.md)  | [2° Semester](https://github.com/Inodevs)   |      |    
 | [Hangman](https://github.com/madu-braga/Forca)     |  [3° Semester](https://github.com/NewInoDevs/NewInoDevs)   |        |
-| [Rock-Paper-Scissors](https://github.com/madu-braga/Jokenpo)  | [4° Semester](https://github.com/NewInoDevs/NewInoDevs)  |      |    
+| [Rock-Paper-Scissors](https://github.com/madu-braga/Jokenpo)  | [4° Semester](https://github.com/Inodevs-4/2RP)  |      |    
 | [Secret Number](https://github.com/madu-braga/Adivinhe)  |      |      |    
  
 </div>
