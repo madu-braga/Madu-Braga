@@ -39,9 +39,9 @@
   
 |   Games   |   College's API  |    Others    |
 | :---         | :---         | :---      |
-| [Yellow Ball](https://github.com/madu-braga/Yellow-Ball)  | [First Semester](https://github.com/DeskwarePI)    | [Calculator](https://github.com/madu-braga/Calculadora ) |
-| [Speed Typer](https://github.com/madu-braga/Speed-Typer/blob/main/README.md)  | [Second Semester](https://github.com/Inodevs)   |      |    
-| [Hangman](https://github.com/madu-braga/Forca)     |  [Third Semester](https://github.com/NewInoDevs/NewInoDevs)   |        |
+| [Yellow Ball](https://github.com/madu-braga/Yellow-Ball)  | [1° Semester](https://github.com/DeskwarePI)    | [Calculator](https://github.com/madu-braga/Calculadora ) |
+| [Speed Typer](https://github.com/madu-braga/Speed-Typer/blob/main/README.md)  | [2° Semester](https://github.com/Inodevs)   |      |    
+| [Hangman](https://github.com/madu-braga/Forca)     |  [3° Semester](https://github.com/NewInoDevs/NewInoDevs)   |        |
 | [Rock-Paper-Scissors](https://github.com/madu-braga/Jokenpo)  |  |      |    
 | [Secret Number](https://github.com/madu-braga/Adivinhe)  |      |      |    
  
