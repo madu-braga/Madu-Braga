@@ -28,6 +28,7 @@
   <!--<img src="https://cdn.discordapp.com/attachments/901303352883822635/1046774495572140073/unknown.png" width=6%>&nbsp;&nbsp;-->
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width=5%>&nbsp;&nbsp;
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=6%>&nbsp;&nbsp;
+  <!--<img src="https://cdn.discordapp.com/attachments/826526043917647912/1079100296262856797/Figma-logo.png" width=4%>&nbsp;&nbsp;-->
 </div>   
 
   ##
