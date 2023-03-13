@@ -13,8 +13,7 @@
    <p align="left"><h3> :house: Caçapava • São Paulo;<br><br>
                        :books: Analysis and Systems Development; <br><br>
                        :mortar_board: Student - IT <br>
-  </left> 
-  </div>
+  </p> 
   <br>
   
    ##
