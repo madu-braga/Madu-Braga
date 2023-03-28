@@ -8,7 +8,7 @@
   <div style="display: inline_block">
     <img align="right" src="https://cdn.discordapp.com/attachments/901303352883822635/1078030454109777930/fb5cbc00-0a67-11eb-9c37-3f829f3f7382.png" height="180">
   <div>
-    
+     
  <h3 align="left">About me:  </h3>
    <p align="left"><h3> :house: Caçapava • São Paulo;<br><br>
                        :books: Analysis and Systems Development; <br><br>
