@@ -16,7 +16,7 @@
   </p> 
   <br>
   
-   ##
+   ## 
    
 <div align="center">   <br>
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003664285047726190/unknown.png" width=6%>&nbsp;&nbsp;
@@ -77,5 +77,3 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
    </a> 
 </div>
-  
-
