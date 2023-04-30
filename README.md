@@ -3,7 +3,7 @@
   ![](https://komarev.com/ghpvc/?username=Madu-Braga&color=blueviolet)   
    
    
-</div>       
+</div>        
  
 # **Welcome to my repository!** :coffee:
   <div style="display: inline_block">
@@ -31,7 +31,7 @@
   <!--<img src="https://cdn.discordapp.com/attachments/826526043917647912/1079100296262856797/Figma-logo.png" width=4%>&nbsp;&nbsp;-->
 </div>   
 
-  ##
+  ## 
 
  
  <h3 align="center"> 	:rocket: Programs made by me: </h2>
