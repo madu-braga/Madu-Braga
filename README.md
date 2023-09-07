@@ -45,7 +45,7 @@
 | [Hangman](https://github.com/madu-braga/Forca)     |  [3° Semester](https://github.com/NewInoDevs/NewInoDevs)   |        |
 | [Rock-Paper-Scissors](https://github.com/madu-braga/Jokenpo)  | [4° Semester](https://github.com/Inodevs-4/2RP)  |      |    
 | [Secret Number](https://github.com/madu-braga/Adivinhe)  | [5° Semester](https://github.com/inodevs-5/Reportify_Doc)     |      |  
-|  | [6° Semester](https://github.com/Inodevs-6/Inodevs-doc)     |      |  
+| [Simon Game](https://github.com/madu-braga/Simon-Game)  | [6° Semester](https://github.com/Inodevs-6/Inodevs-doc)     |      |  
 |   | [API's Portfolio](https://github.com/madu-braga/TG-Portifolio-Fatec/tree/main)     |        |  
 
  
