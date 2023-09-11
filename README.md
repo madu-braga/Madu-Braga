@@ -55,7 +55,7 @@
   
  <div align="center"> 
     
-[![GitHub Streak](https://streak-stats.demolab.com?user=madu-braga&theme=dark&locale=pt_br)](https://git.io/streak-stats) <br><br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=madu-braga&theme=dark&locale=en_us)](https://git.io/streak-stats) <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madu-braga&hide_progress=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madubraga&layout=compact&theme=dark&hide_progress=true)](https://github.com/Madu-Braga/github-readme-stats)
 ![Top Lang](https://github-readme-stats.vercel.app/api?username=madu-braga&show_icons=true&theme=radical)-->
