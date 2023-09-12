@@ -40,7 +40,7 @@
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px">
    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px">
    <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width="45px">
-   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=5%>
+   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width="55px">
 </div>   
 
   ## 
