@@ -32,15 +32,15 @@
 
    
    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="70px">
-   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="65px">
+   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px">
    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px">
    <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"height="50px">
    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"height="50px">
    <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px">
    <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px">
    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px">
-   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width="45px">
-   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width="55px">
+   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width="43px">
+   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width="50px">
 </div>   
 
   ## 
