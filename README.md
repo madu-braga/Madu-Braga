@@ -30,7 +30,6 @@
   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=6%>&nbsp;&nbsp;-->
   <!--<img src="https://cdn.discordapp.com/attachments/826526043917647912/1079100296262856797/Figma-logo.png" width=4%>&nbsp;&nbsp;-->
 
-   
    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="70px">
    <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px">
    <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px">
@@ -41,6 +40,7 @@
    <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px">
    <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width="43px">
    <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width="50px">
+  
 </div>   
 
   ## 
