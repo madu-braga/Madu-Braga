@@ -11,9 +11,10 @@
   <div>
       
  <h3 align="left">About me:  </h3>
-   <p align="left"><h3> :house: Caçapava • São Paulo;<br><br>
-                       :books: Analysis and Systems Development; <br><br>
-                       :mortar_board: Student - IT <br>
+   <p align="left"><h4> :house: Caçapava • São Paulo;<br><br>
+                        :books: Analysis and Systems Development • Graduated; <br><br>
+                       👩🏻‍💻 CRM Developer • Johnson & Johnson; <br><br>
+                       :mortar_board: Developer - IT <br>
   </p> 
   <br>
  
