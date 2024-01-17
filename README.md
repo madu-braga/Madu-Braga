@@ -18,29 +18,37 @@
   <br>
   
    ## 
-   
-<div align="center">   <br>
-   <!--<img src="https://cdn.discordapp.com/attachments/901303352883822635/1003664285047726190/unknown.png" width=6%>&nbsp;&nbsp;>
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665715489931274/unknown.png" width=6%>&nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665109652095026/unknown.png" width=8%>&nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003665895677235230/unknown.png" width=6%>&nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1046775566432481370/unknown.png" width=5.3%>&nbsp;&nbsp;
-  -<img src="https://cdn.discordapp.com/attachments/901303352883822635/1046774495572140073/unknown.png" width=6%>&nbsp;&nbsp;
- <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width=5%>&nbsp;&nbsp;
-  <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width=6%>&nbsp;&nbsp;-->
-  <!--<img src="https://cdn.discordapp.com/attachments/826526043917647912/1079100296262856797/Figma-logo.png" width=4%>&nbsp;&nbsp;-->
 
-   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="70px">
-   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55px">
-   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px">
-   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"height="50px">
-   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"height="50px">
-   <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50px">
-   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px">
-   <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60px">
-   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003666496733585418/unknown.png" width="43px">
-   <img src="https://cdn.discordapp.com/attachments/901303352883822635/1003669155263823982/unknown.png" width="50px">
-  
+<div align="center">   
+
+ <h3 align="center"> 	🛠️ Technical Knowledge: </h2>
+ 
+ <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+ <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Canva-purple?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
+ <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Bitbucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
+ <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank">
+
 </div>   
 
   ## 
