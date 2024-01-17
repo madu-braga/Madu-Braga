@@ -16,43 +16,6 @@
                        :mortar_board: Student - IT <br>
   </p> 
   <br>
-  
-   ## 
-
-<div align="center">   
-
- <h3 align="center"> 	🛠️ Technical Knowledge: </h2>
- 
- <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
- <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=figma&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Canva-purple?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" target="_blank">
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">
- <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Bitbucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank">
- <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank">
-
-</div>   
-
-  ## 
-
  
  <h3 align="center"> 	:rocket: Programs made by me: </h2>
   
@@ -72,6 +35,28 @@
 </div>
   
   ## 
+   
+<div align="center">   
+
+ <h3 align="center"> 	:fire: Technical Knowledge: </h2>
+
+<div align="center">
+  
+|   CRM   |   Front-end  |    Back-end    | Database  |    DevOps    |  Others    |
+| :---         | :---         | :---      | :---         | :---      | :---       |
+|  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"> | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"> | <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=blue" target="_blank"> | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"> |  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Salesforce&logoColor=white" target="_blank"> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" target="_blank"> |
+|  | <img src="https://img.shields.io/badge/css3-00599C?style=for-the-badge&logo=css3&logoColor=white" target="_blank"> |    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" target="_blank">  |     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" target="_blank"> | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" target="_blank"> |  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" target="_blank"> |
+|  | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank">  |     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank">    |  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" target="_blank">  |  <img src="https://img.shields.io/badge/Bitbucket-darkblue?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"> |
+|  | <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"> |   <img src="https://img.shields.io/badge/TypeScript-00599C?style=for-the-badge&logo=typescript&logoColor=white" target="_blank">  |     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"> |   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"> | 
+|  | <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank">   |   <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=white" target="_blank">  |  <img src="https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white" target="_blank">  |  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" target="_blank">
+|  |  <img src="https://img.shields.io/badge/Figma-339933?style=for-the-badge&logo=figma&logoColor=white" target="_blank">    |       |    | 
+|  |  <img src="https://img.shields.io/badge/Canva-purple?&style=for-the-badge&logo=Canva&logoColor=white" target="_blank">   |        |  
+
+ ##
+
+</div>   
+
+ 
   
  <div align="center"> 
     
