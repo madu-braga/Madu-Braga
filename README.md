@@ -12,9 +12,8 @@
       
  <h3 align="left">About me:  </h3>
    <p align="left"><h3> :house: Caçapava • São Paulo;<br><br>
-                        :books: Analysis and Systems Development • Graduated; <br><br>
-                       👩🏻‍💻 CRM Developer • Johnson & Johnson; <br><br>
-                       :mortar_board: Developer - IT <br>
+                        :books: Postgraduate Degree, Distributed Software Architecture • In Progress; <br><br>
+                       👩🏻‍💻 Software Engineer • Johnson & Johnson; <br><br>
   </p> 
   <br>
  
